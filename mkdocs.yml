@@ -57,13 +57,7 @@ plugins:
   - blog
   - offline
   - tags
-  - rss:
-      match_path: blog/posts/*.md
-      date_from_meta:
-        as_creation: date
-      categories:
-        - categories
-        - tags
+
 
 
 
