@@ -2,8 +2,10 @@ site_name: Py_thodar Docs
 nav:
   
   - Home: index.md
-  - About: about.md
-  - Blog: blog/index.md
+  - Git & Github:
+      - Introduction: Git/01_Config.md
+      - Getting Started: Git/02_Fundamental_01.md
+  
 
   
 theme:
